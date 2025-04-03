@@ -1,0 +1,10 @@
+body{
+
+    background-color: green
+}
+
+.top {
+    width: 100vh;
+    height: 20vh;
+    background-color: blue;
+}
