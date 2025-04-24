@@ -9,6 +9,7 @@ body{
     background-color: grey;
     margin-left: 7vh;
     margin-right: 7vh;
+    
 }
 .margentop {
 
@@ -25,6 +26,43 @@ margin-top: 2vh;
 margin-left: 4vh;
 background-color: yellow;
 }
+.CB{
+    width: 27vh;
+    height: 2vh;
+    padding-top: 0vh;
+    margin-left: 4vh;
+    background-color: white;
+    
+
+}
+.CB2{
+    width: 27vh;
+    height: 2vh;
+    padding-top: 0vh;
+    margin-left: 100vh;
+    background-color: white;
+    
+
+}
+.CB3{
+    width: 27vh;
+    height: 2vh;
+    margin-top : -2vh;
+    margin-left: 130vh;
+    background-color: white
+    
+
+}
+.CB4{
+    width: 27vh;
+    height: 2vh;
+    margin-top : -2.15vh;
+    margin-left: 160vh;
+    background-color: white
+    
+
+}
+
 .mid {
     width: 0;
     height: 0;
