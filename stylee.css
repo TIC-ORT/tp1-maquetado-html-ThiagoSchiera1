@@ -1,21 +1,38 @@
 body{
 
-    background-color: green
+    margin:0;
 }
 
 .top {
-    width: 100%;
-    height: 20vh;
-    background-color: blue;
+    width: 110;
+    height: 50vh;
+    background-color: grey;
+    margin-left: 7vh;
+    margin-right: 7vh;
+}
+.margentop {
+
+    width: 11;
+    height: 13vh;
+    background-color: darkslategray;
+    padding: 1px;
+    
+}
+.ashiba{
+width: 27vh;
+height: 4vh;
+margin-top: 2vh;
+margin-left: 4vh;
+background-color: yellow;
 }
 .mid {
-    width: 100%;
-    height: 20vh;
+    width: 0;
+    height: 0;
     background-color: yellow;
 }
 
 .bot {
-    width: 100%;
-    height: 20vh;
+    width: 0;
+    height: 0;
     background-color: violet;
 }
