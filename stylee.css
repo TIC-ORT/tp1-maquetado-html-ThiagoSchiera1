@@ -12,6 +12,62 @@ overflow-y: scroll;
 
     
 }
+.cuadradinho{
+    height: 3vh;
+    width: 15vh;
+    background-color: white;
+    margin-top: 6vh;
+    margin-left: 100vh;
+}
+.esteban{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 100vh;
+    background-color: yellow;
+}
+.esteban2{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 100vh;
+    background-color: yellow;
+}
+.esteban3{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 100vh;
+    background-color: yellow;
+}
+.esteban4{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 100vh;
+    background-color: yellow;
+}
+.esteban5{
+    width: 15vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 100vh;
+    background-color: yellow;
+}
+.cuadradinho2{
+    height: 3vh;
+    width: 15vh;
+    background-color: white;
+    margin-top: -7vh;
+    margin-left: 125vh;
+}
+.cuadradinho3{
+    height: 3vh;
+    width: 15vh;
+    background-color: white;
+    margin-top: -3vh;
+    margin-left: 150vh;
+}
 .margentop {
 
     width: 11;
