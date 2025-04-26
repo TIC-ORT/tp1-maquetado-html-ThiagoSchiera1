@@ -17,56 +17,126 @@ overflow-y: scroll;
     width: 15vh;
     background-color: white;
     margin-top: 6vh;
-    margin-left: 100vh;
+    margin-left: 97vh;
 }
 .esteban{
     width: 23vh;
     height: 2vh;
     margin-top: 2vh;
-    margin-left: 100vh;
+    margin-left:  97vh;
     background-color: yellow;
 }
 .esteban2{
     width: 23vh;
     height: 2vh;
     margin-top: 2vh;
-    margin-left: 100vh;
+    margin-left:  97vh;
     background-color: yellow;
 }
 .esteban3{
     width: 23vh;
     height: 2vh;
     margin-top: 2vh;
-    margin-left: 100vh;
+    margin-left:  97vh;
     background-color: yellow;
 }
 .esteban4{
     width: 23vh;
     height: 2vh;
     margin-top: 2vh;
-    margin-left: 100vh;
+    margin-left: 97vh;
     background-color: yellow;
 }
 .esteban5{
     width: 15vh;
     height: 2vh;
     margin-top: 2vh;
-    margin-left: 100vh;
+    margin-left:  97vh;
     background-color: yellow;
 }
 .cuadradinho2{
     height: 3vh;
     width: 15vh;
     background-color: white;
-    margin-top: -7vh;
+    margin-top: -23vh;
     margin-left: 125vh;
+}
+.jose{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 125vh;
+    background-color: yellow;
+}
+.jose2{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 125vh;
+    background-color: yellow;
+}
+.jose3{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 125vh;
+    background-color: yellow;
+}
+.jose4{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 125vh;
+    background-color: yellow;
+}
+.jose5{
+    width: 15vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 125vh;
+    background-color: yellow;
 }
 .cuadradinho3{
     height: 3vh;
     width: 15vh;
     background-color: white;
-    margin-top: -3vh;
-    margin-left: 150vh;
+    margin-top: -23vh;
+    margin-left: 155vh;
+}
+.bauti{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 155vh;
+    background-color: yellow;
+}
+.bauti2{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 155vh;
+    background-color: yellow;
+}
+.bauti3{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 155vh;
+    background-color: yellow;
+}
+.bauti4{
+    width: 23vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 155vh;
+    background-color: yellow;
+}
+.bauti5{
+    width: 15vh;
+    height: 2vh;
+    margin-top: 2vh;
+    margin-left: 155vh;
+    background-color: yellow;
 }
 .margentop {
 
